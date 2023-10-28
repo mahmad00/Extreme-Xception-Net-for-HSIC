@@ -2,8 +2,8 @@
 
 ## Reference
 
-This code is used for our research paper in IEEE Transactions on Geoscience and Remote Sensing:
-> U. Ghous, et.al., "*(2+1)D Extreme Xception Net for Hyperspectral Image Classification*," submitted to IEEE Transactions on Geoscience and Remote Sensing, 2023.
+This code is used for our research paper:
+> U. Ghous, et.al., "*(2+1)D Extreme Xception Net for Hyperspectral Image Classification*," submitted to IEEE, 2023.
 
 ## (2+1)D Extreme Xception Net (Proposed)
 ![3DX](https://github.com/mahmad00/Extreme-Xception-Net-for-HSIC/assets/22393368/30e2c8d4-94d7-4e0a-a322-e72126a70a4d)
@@ -23,7 +23,7 @@ This code is used for our research paper in IEEE Transactions on Geoscience and 
 ## 3D CNN
 ![3DCNN](https://github.com/mahmad00/Extreme-Xception-Net-for-HSIC/assets/22393368/08fd452e-8169-4d1b-9d9e-8717b8e1226b)
 
-## Hybrod Net
+## Hybrid Net
 ![HybCNN](https://github.com/mahmad00/Extreme-Xception-Net-for-HSIC/assets/22393368/3f55bdd3-6d9f-4e8b-b333-c905fe611f7d)
 
 ## LeNet
