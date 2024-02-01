@@ -3,7 +3,7 @@
 ## Reference
 
 This code is used for our research paper:
-> U. Ghous, et.al., "*(2+1)D Extreme Xception Net for Hyperspectral Image Classification*," submitted to IEEE, 2023.
+> U. Ghous, et.al., "*(2+1)D Extreme Xception Net for Hyperspectral Image Classification*," IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024.
 
 ## (2+1)D Extreme Xception Net (Proposed)
 ![3DX](https://github.com/mahmad00/Extreme-Xception-Net-for-HSIC/assets/22393368/30e2c8d4-94d7-4e0a-a322-e72126a70a4d)
