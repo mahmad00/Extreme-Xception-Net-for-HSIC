@@ -4,6 +4,17 @@
 
 This code is used for our research paper:
 > U. Ghous, et.al., "*(2+1)D Extreme Xception Net for Hyperspectral Image Classification*," IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024.
+>
+> Please cite:
+> @ARTICLE{10423094,
+  author={Ghous, Usman and Sarfraz, Muhammad Shahzad and Ahmad, Muhammad and Li, Chenyu and Hong, Danfeng},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={(2+1)D Extreme Xception Net for Hyperspectral Image Classification}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/JSTARS.2024.3362936}}
 
 ## (2+1)D Extreme Xception Net (Proposed)
 ![3DX](https://github.com/mahmad00/Extreme-Xception-Net-for-HSIC/assets/22393368/30e2c8d4-94d7-4e0a-a322-e72126a70a4d)
@@ -41,26 +52,17 @@ This tool is compatible with Python 2.7 and Python 3.5+ and executed over Colab.
 
 ## Hyperspectral datasets
 
-Several public hyperspectral datasets are available on the [EHU]([http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)). Users can download those beforehand or let the tool download the dataset for them. 
-
-At this time, the tool automatically downloads the following public datasets:
-  * Indian Pines
+Several public hyperspectral datasets are available on the [EHU]([http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)). Users can download those beforehand. 
 
 An example dataset folder has the following structure:
 ```
 Datasets
-├── Botswana
-│   ├── Botswana_gt.mat
-│   └── Botswana.mat
 ├── IndianPines
 │   ├── Indian_pines_corrected.mat
 │   ├── Indian_pines_gt.mat
-├── Salinas
-│   ├── Salinas_gt.mat
-│   └── Salinas.mat
-├── PaviaU
-│   ├── PaviaU_gt.mat
-│   └── PaviaU.mat
+├── University of Houston
+│   ├── UH.mat
+│   └── UG_gt.mat
 ```
 
 ### RESEARCH AND NON-COMMERCIAL PURPOSES
